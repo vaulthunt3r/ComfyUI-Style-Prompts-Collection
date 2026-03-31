@@ -1,4 +1,8 @@
 {
+     "No Style": {
+        "prompt": "",
+        "negative_prompt": ""
+    },
     "||| PHOTOGRAPHY": {
         "prompt": "photography, capturing moments, storytelling, creative composition",
         "negative_prompt": "bad anatomy, comics, cropped, cross-eyed, worst quality, low quality, painting, 3D render, drawing, crayon, sketch, graphite, impressionist, cartoon, anime, noisy, blurry, soft, deformed, ugly, lowres, low details, JPEG artifacts, airbrushed, semi-realistic, CGI, render, Blender, digital art, manga, amateur, mutilated, distorted"
