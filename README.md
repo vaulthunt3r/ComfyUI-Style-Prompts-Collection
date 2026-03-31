@@ -10,11 +10,8 @@ This collection provides a wide variety of artistic styles, techniques, and aest
 
 The repository includes:
 
-- **styles-organized.csv** - Main collection in CSV format
-- **styles-organized.json** - Same collection in JSON format
-- **styles.csv** - Original collection in CSV format
-- **styles.json** - Original collection in JSON format
-- **styles-new-unsorted.csv** - Additional unsorted styles
+- **styles.csv** - Main collection in CSV format
+- **styles.json** - Same collection in JSON format
 
 ## Style Categories
 
